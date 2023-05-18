@@ -1,0 +1,9 @@
+article
+- id
+- name
+- price
+- in stock
+- purchase
+
+purchase confirmation
+- generate pdf - contains article id, name, price
